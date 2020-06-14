@@ -13,6 +13,14 @@ Use / Installation:
 
 3- The file named sqlite-jdbc-3.27.2 in VeriTabaniDosyalari will be selected from the Netbeans and the Libraries section will be introduced to the program by right-clicking on the path named Properties.
 
+Admin Login:
+User name:mhd
+Password:mhd
+
+User Login:
+User name:md
+Password:md
+
 
 06/11/2020
 Mehmet Hüseyin Delipalta
