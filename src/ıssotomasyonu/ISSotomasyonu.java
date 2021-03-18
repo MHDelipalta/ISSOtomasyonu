@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+ //Mehmet Hüseyin Delipalta - coDeveloperman
 package ıssotomasyonu;
 
 import Frame.GirisEkrani;
 
 /**
  *
- * @author tarha
+ * @author Mehmet Hüseyin Delipalta - coDeveloperman
  */
 public class ISSotomasyonu {
 
